@@ -10,20 +10,16 @@
     gap: 20px;
 }
 .grid-items-1{
-    border: 2px solid red;
     grid-column: 1/span 2;
-    /* width: 70%; */
     padding: 10px;
 }
 .grid-items-1 p {
     width: 60%;
 }
 .grid-items-2{
-    border: 2px solid white;
     grid-column: 3/span 2;
 }
 .grid-items-3{
-    border: 2px solid green;
     grid-column: 5/span 1;
 }
 
